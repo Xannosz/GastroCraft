@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "gastrocraft:block/wine_barrel",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "gastrocraft:block/wine_barrel"
+    },
+    "facing=south": {
+      "model": "gastrocraft:block/wine_barrel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gastrocraft:block/wine_barrel",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gastrocraft:bun"
+    },
+    {
+      "item": "gastrocraft:chicken_schnitzel"
+    },
+    {
+      "item": "gastrocraft:cheese"
+    }
+  ],
+  "result": {
+    "item": "gastrocraft:chicken_schnitzel_bon"
+  }
+}

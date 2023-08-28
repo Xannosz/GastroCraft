@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "gastrocraft:pasta"
+    }
+  },
+  "result": {
+    "item": "gastrocraft:raw_bread"
+  }
+}

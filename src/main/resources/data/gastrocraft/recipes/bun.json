@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gastrocraft:raw_bun"
+  },
+  "result": "gastrocraft:bun",
+  "experience": 0.3,
+  "cookingtime": 300
+}

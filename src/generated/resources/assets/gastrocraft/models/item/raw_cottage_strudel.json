@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gastrocraft:item/raw_cottage_strudel"
+  }
+}

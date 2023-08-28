@@ -1,0 +1,6 @@
+{
+  "parent": "gastrocraft:block/crop",
+  "textures": {
+    "crop": "gastrocraft:block/red_grape_plant"
+  }
+}

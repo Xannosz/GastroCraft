@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gastrocraft:bun"
+    }
+  ],
+  "result": {
+    "item": "gastrocraft:bread_crumbs"
+  }
+}

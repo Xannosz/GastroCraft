@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gastrocraft:strudel_pasta"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "gastrocraft:cottage"
+    },
+    {
+      "item": "gastrocraft:raisin"
+    }
+  ],
+  "result": {
+    "item": "gastrocraft:raw_cottage_strudel",
+    "count": 3
+  }
+}

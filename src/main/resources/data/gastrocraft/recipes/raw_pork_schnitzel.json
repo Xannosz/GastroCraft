@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "item": "gastrocraft:flour"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "gastrocraft:bread_crumbs"
+    }
+  ],
+  "result": {
+    "item": "gastrocraft:raw_pork_schnitzel",
+    "count": 3
+  }
+}

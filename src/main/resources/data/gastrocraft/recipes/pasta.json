@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gastrocraft:flour"
+    },
+    {
+      "item": "gastrocraft:flour"
+    },
+    {
+      "item": "gastrocraft:flour"
+    },
+    {
+      "item": "gastrocraft:flour"
+    },
+    {
+      "item": "gastrocraft:flour"
+    },
+    {
+      "item": "gastrocraft:flour"
+    },
+    {
+      "item": "gastrocraft:flour"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "gastrocraft:pasta",
+    "count": 3
+  }
+}

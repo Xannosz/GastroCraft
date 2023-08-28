@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gastrocraft:raw_baguette"
+  },
+  "result": "gastrocraft:baguette",
+  "experience": 0.3,
+  "cookingtime": 300
+}

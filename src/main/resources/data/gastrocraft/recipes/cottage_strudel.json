@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gastrocraft:raw_cottage_strudel"
+  },
+  "result": "gastrocraft:cottage_strudel",
+  "experience": 0.3,
+  "cookingtime": 300
+}

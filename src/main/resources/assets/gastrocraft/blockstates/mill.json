@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "gastrocraft:block/mill",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "gastrocraft:block/mill"
+    },
+    "facing=south": {
+      "model": "gastrocraft:block/mill",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gastrocraft:block/mill",
+      "y": 270
+    }
+  }
+}

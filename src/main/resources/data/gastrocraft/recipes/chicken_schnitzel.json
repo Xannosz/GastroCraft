@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gastrocraft:raw_chicken_schnitzel"
+  },
+  "result": "gastrocraft:chicken_schnitzel",
+  "experience": 0.3,
+  "cookingtime": 300
+}

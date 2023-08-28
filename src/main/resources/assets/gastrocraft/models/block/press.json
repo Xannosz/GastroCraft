@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "gastrocraft:block/press_side",
+    "side": "gastrocraft:block/press_side",
+    "top": "gastrocraft:block/press_top",
+    "bottom": "gastrocraft:block/press_bottom",
+    "particle": "gastrocraft:block/press_side"
+  }
+}

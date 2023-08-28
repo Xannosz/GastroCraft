@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gastrocraft:raw_pumpkin_strudel"
+  },
+  "result": "gastrocraft:pumpkin_strudel",
+  "experience": 0.3,
+  "cookingtime": 300
+}

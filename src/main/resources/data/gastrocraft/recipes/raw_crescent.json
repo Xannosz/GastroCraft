@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P",
+    "P ",
+    " P"
+  ],
+  "key": {
+    "P": {
+      "item": "gastrocraft:pasta"
+    }
+  },
+  "result": {
+    "item": "gastrocraft:raw_crescent",
+    "count": 3
+  }
+}

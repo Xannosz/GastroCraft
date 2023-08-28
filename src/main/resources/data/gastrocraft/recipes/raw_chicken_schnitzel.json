@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chicken"
+    },
+    {
+      "item": "gastrocraft:flour"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "gastrocraft:bread_crumbs"
+    }
+  ],
+  "result": {
+    "item": "gastrocraft:raw_chicken_schnitzel",
+    "count": 3
+  }
+}

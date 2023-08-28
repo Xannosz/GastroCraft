@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gastrocraft:raw_apple_strudel"
+  },
+  "result": "gastrocraft:apple_strudel",
+  "experience": 0.3,
+  "cookingtime": 300
+}

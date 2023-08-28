@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gastrocraft:crescent"
+    }
+  ],
+  "result": {
+    "item": "gastrocraft:bread_crumbs"
+  }
+}

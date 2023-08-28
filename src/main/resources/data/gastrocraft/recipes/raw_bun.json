@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gastrocraft:pasta"
+    }
+  ],
+  "result": {
+    "item": "gastrocraft:raw_bun"
+  }
+}
